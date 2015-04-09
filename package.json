@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-runner-node",
+  "name": "jasmine-runner-node-smx",
   "version": "0.1.2",
   "description": "Run Jasmine 2 specs using PhantomJS",
   "main": "index",
