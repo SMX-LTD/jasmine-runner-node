@@ -1,6 +1,6 @@
 {
   "name": "jasmine-runner-node-smx",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Run Jasmine 2 specs using PhantomJS",
   "main": "index",
   "scripts": {
@@ -19,9 +19,9 @@
   "dependencies": {
     "connect": "3.3.5",
     "glob": "5.0.5",
-    "handlebars": "3.0.2",
+    "handlebars": "3.0.3",
     "phantomjs": "1.9.16",
-    "serve-static": "^1.9.2",
+    "serve-static": "1.9.2",
     "supports-color": "1.3.1",
     "underscore": "1.8.3"
   }
