@@ -8,7 +8,11 @@ jasmine-runner-node
 
 Installation
 ============
-In your project root, run: `npm install jasmine-runner-node --save-dev`
+
+This fork is only published to a private repository. If you wish to deploy
+this fork yourself we recommend publishing to your own repository or consider
+if the [original project](https://github.com/sclevine/jasmine-runner-node)
+meets your requirements.
 
 Usage
 =====
@@ -36,7 +40,7 @@ jasmine.run({
     // Tests passed
   }
   if (phantomExitCode == 1) {
-    // Test(s) failed  
+    // Test(s) failed
   }
   else {
     // Something else went wrong
